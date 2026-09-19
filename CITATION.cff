@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this repository, please cite it as below."
+title: "Decision Science"
+type: software
+authors:
+  - family-names: "Reif"
+    given-names: "Ed"
+    alias: "theedreif"
+url: "https://github.com/theedreif/decision-science"
+repository-code: "https://github.com/theedreif/decision-science"
+abstract: "Decision Science — probability, asymmetry, optionality, behavioral economics, and decision quality when outcomes cannot be guaranteed."
+keywords:
+  - operational-readiness
+  - decision-science
+  - instructional-design
+  - human-performance
+  - judgment-under-uncertainty
+  - autonomous-systems
+  - field-learning
+  - ai-skills
