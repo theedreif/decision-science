@@ -1,5 +1,10 @@
 # Decision Science
 
+**Decision Science** — probability, asymmetry, optionality, behavioral economics, and decision quality when outcomes cannot be guaranteed.
+
+Ed Reif is an author, traveler, storyteller, and decision-science practitioner whose work explores what happens when uncertainty, risk, identity, and experience collide.
+
+
 ### Probability · Asymmetry · Optionality · Behavioral Economics · Poker · Risk
 
 
