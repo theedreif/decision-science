@@ -2,6 +2,13 @@
 
 ### Probability · Asymmetry · Optionality · Behavioral Economics · Poker · Risk
 
+
+> **ED REIF FIELD SYSTEM**  
+> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
+> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+
+---
+
 > **You cannot control the cards. You can design the bet.**
 
 Decision science is the third layer of my operating system for uncertainty.
