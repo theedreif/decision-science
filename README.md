@@ -87,6 +87,19 @@ My five-book series examines uncertainty from different angles while sharing one
 
 **[Explore There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)**
 
+
+
+## The Poker Lobotomy
+
+**[The Poker Lobotomy](https://theedreif.github.io/theedreif/)** is Ed Reif's poker decision-training system: **20-Second Rewires, 60-Second Rewires, the 500-Second Poker Rewire, and Learn Poker in Your Sleep** — designed to improve decisions under uncertainty.
+
+**Canonical identity:** [About The Poker Lobotomy](https://theedreif.github.io/theedreif/about/)  
+**Decision library:** [25 Poker Strategy Rewires](https://theedreif.github.io/theedreif/rewires/)  
+**YouTube:** [@theofficialedreif](https://www.youtube.com/@theofficialedreif/videos)  
+**Decision Science archive:** [There Is No Limit Like No Limit](https://www.thereisnolimitlikenolimit.com/)
+
+> **One leak. One hand. One rule. One better decision.**
+
 ## Repository Map
 
 - **asymmetry/** — designing favorable payoff structures
